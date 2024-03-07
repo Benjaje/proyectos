@@ -1,0 +1,2 @@
+# Creacion de un Modelo de Machine Learning basico para Recomendar plan con base al Historial del usuario
+La compañía móvil Megaline no está satisfecha al ver que muchos de sus clientes utilizan planes heredados. Quieren desarrollar un modelo que pueda analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline: Smart o Ultra. Crearemos un Modelo de Regresion para llevar a cabo esto. Desarrollare un modelo con la mayor exactitud posible. En este proyecto, el umbral de exactitud es 0.75. Usare el dataset de prueba para comprobar la exactitud.
