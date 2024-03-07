@@ -1,0 +1,2 @@
+# Modelo de Aprendizaje Supervisado
+Este proyecto se enfoca en predecir el abandono de clientes para Beta Bank utilizando técnicas de aprendizaje automático. Basado en datos históricos de comportamiento de clientes y terminaciones de contratos, se ha desarrollado un modelo con el objetivo de identificar clientes propensos a abandonar el banco pronto. El principal objetivo es maximizar el valor F1 del modelo, con un mínimo requerido de 0.59 para aprobar la revisión. Además, se evalúa la métrica AUC-ROC para proporcionar una comprensión completa del rendimiento del modelo. 
